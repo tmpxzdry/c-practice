@@ -1,0 +1,11 @@
+E:\frontend study\github\c# practice\001-configuration-dev\HelloCSharp\bin\Debug\netcoreapp2.1\HelloCSharp.deps.json
+E:\frontend study\github\c# practice\001-configuration-dev\HelloCSharp\bin\Debug\netcoreapp2.1\HelloCSharp.runtimeconfig.json
+E:\frontend study\github\c# practice\001-configuration-dev\HelloCSharp\bin\Debug\netcoreapp2.1\HelloCSharp.runtimeconfig.dev.json
+E:\frontend study\github\c# practice\001-configuration-dev\HelloCSharp\bin\Debug\netcoreapp2.1\HelloCSharp.dll
+E:\frontend study\github\c# practice\001-configuration-dev\HelloCSharp\bin\Debug\netcoreapp2.1\HelloCSharp.pdb
+E:\frontend study\github\c# practice\001-configuration-dev\HelloCSharp\obj\Debug\netcoreapp2.1\HelloCSharp.csprojAssemblyReference.cache
+E:\frontend study\github\c# practice\001-configuration-dev\HelloCSharp\obj\Debug\netcoreapp2.1\HelloCSharp.csproj.CoreCompileInputs.cache
+E:\frontend study\github\c# practice\001-configuration-dev\HelloCSharp\obj\Debug\netcoreapp2.1\HelloCSharp.AssemblyInfoInputs.cache
+E:\frontend study\github\c# practice\001-configuration-dev\HelloCSharp\obj\Debug\netcoreapp2.1\HelloCSharp.AssemblyInfo.cs
+E:\frontend study\github\c# practice\001-configuration-dev\HelloCSharp\obj\Debug\netcoreapp2.1\HelloCSharp.dll
+E:\frontend study\github\c# practice\001-configuration-dev\HelloCSharp\obj\Debug\netcoreapp2.1\HelloCSharp.pdb
